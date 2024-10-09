@@ -1,6 +1,6 @@
 pandas
 matplotlib 
 pyplot
-scipy 
+seaborn
 stats
-levene
+numpy
